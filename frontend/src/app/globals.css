@@ -1,0 +1,16 @@
+/* styles/globals.css */
+body {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+input[type='text'],
+input[type='number'],
+input[type='range'] {
+  margin: 5px;
+  padding: 8px;
+}
